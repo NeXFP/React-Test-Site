@@ -1,5 +1,5 @@
 import React from 'react';
-import {SiAffinitydesigner} from 'react-icons/si'
+import {FaBars} from 'react-icons/fa'
 import { 
     Nav, 
     NavbarContainer, 
@@ -18,7 +18,7 @@ const Navbar = () => {
         <NavbarContainer>
           <NavLogo to='/'>Galleria</NavLogo>
           <MobileIcon>
-            <SiAffinitydesigner />
+            <FaBars />
           </MobileIcon>  
           <NavMenu>
               <NavItem>
