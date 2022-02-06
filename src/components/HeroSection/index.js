@@ -9,7 +9,7 @@ import { HeroContainer,
     HeroBtnWrapper,
     ArrowForward,
     ArrowRight } from './HeroElements';
-import { Button } from '../../components/ButtonElement';
+import { Button } from '../ButtonElement';
 
 
 const HeroSection = () => {
