@@ -3,6 +3,9 @@ import { WorksContainer, WorksH1, WorksWrapper, WorksCard, WorksIcon, WorksH2, W
 import Icon1 from '../../images/ProjectCyber.png';
 import Icon2 from '../../images/Hirune.png';
 import Icon3 from '../../images/Gameoverlay.png';
+import Icon4 from '../../images/Glitch.png';
+import Icon5 from '../../images/GuildWar.png';
+import Icon6 from '../../images/IntoTheLight.png';
 
 const Works = () => {
     return (
@@ -30,6 +33,27 @@ const Works = () => {
                     </WorksA>
                     <WorksH2>Overlay UI</WorksH2>
                     <WorksP>Game Start Overlay UI</WorksP>
+                </WorksCard>
+                <WorksCard>
+                    <WorksA as='a' href='https://i.imgur.com/MYTNmpo.png'>
+                        <WorksIcon src={Icon4}/>
+                    </WorksA>
+                    <WorksH2>Glitched</WorksH2>
+                    <WorksP>Tag for an online Forum</WorksP>
+                </WorksCard>
+                <WorksCard>
+                    <WorksA as='a' href='https://i.imgur.com/9e8eZia.png'>
+                        <WorksIcon src={Icon5}/>
+                    </WorksA>
+                    <WorksH2>Guild Wars</WorksH2>
+                    <WorksP>Guild Tag for N-A</WorksP>
+                </WorksCard>
+                <WorksCard>
+                    <WorksA as='a' href='https://i.imgur.com/VTJxaFS.png'>
+                        <WorksIcon src={Icon6}/>
+                    </WorksA>
+                    <WorksH2>Pokemon into the light</WorksH2>
+                    <WorksP>Tag for fun</WorksP>
                 </WorksCard>
             </WorksWrapper>
         </WorksContainer>

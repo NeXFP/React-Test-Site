@@ -6,9 +6,7 @@ import {
     NavLogo, MobileIcon, 
     NavMenu, 
     NavItem, 
-    NavLinks,
-    NavBtn,
-    NavBtnLink
+    NavLinks
  } from './NavbarElements';
 
 const Navbar = ({ toggle }) => {
@@ -27,13 +25,7 @@ const Navbar = ({ toggle }) => {
               <NavItem>
                   <NavLinks to='works'>Works</NavLinks>
               </NavItem>
-              <NavItem>
-                  <NavLinks to='signup'>Sign Up</NavLinks>
-              </NavItem> 
           </NavMenu>
-          <NavBtn>
-              <NavBtnLink to='/signin'> Sign In</NavBtnLink>
-          </NavBtn>
         </NavbarContainer>
       </Nav>
     </>
