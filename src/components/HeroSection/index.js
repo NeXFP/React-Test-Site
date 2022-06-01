@@ -19,7 +19,7 @@ const HeroSection = () => {
           <HeroContent>
               <HeroH1>Welcome to Galleria</HeroH1>
               <HeroP>
-                  Where art takes over reality
+                  Where individuality shines brightly
               </HeroP>
           </HeroContent>
       </HeroContainer>

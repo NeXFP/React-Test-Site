@@ -3,6 +3,7 @@ import Sidebar from '../components/Sidebar';
 import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
 import Works from '../components/Works';
+import ArtWorks from '../components/ArtWorks';
 
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
             <Navbar toggle={toggle} />
             <HeroSection />
             <Works />
+            <ArtWorks />
         </>
     )
 };
