@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d7da34c1.css",
-    "main.js": "/react-gh-pages/static/js/main.2fd74957.js",
-    "static/media/video.mp4": "/react-gh-pages/static/media/video.e9e7b332c1a6732a3f97.mp4",
-    "static/media/OldPortfolio.png": "/react-gh-pages/static/media/OldPortfolio.332f956fd2723aebb825.png",
-    "static/media/Entertainment.png": "/react-gh-pages/static/media/Entertainment.5e8003b75deafb9f7336.png",
-    "static/media/Pokemon.png": "/react-gh-pages/static/media/Pokemon.f49ba4196f91a6d2e94e.png",
-    "static/media/Gameoverlay.png": "/react-gh-pages/static/media/Gameoverlay.2088d1ecd840098d264e.png",
-    "static/media/ProjectCyber.png": "/react-gh-pages/static/media/ProjectCyber.51a3c824fa9376ae44c0.png",
-    "static/media/Hirune.png": "/react-gh-pages/static/media/Hirune.efe6c224ada18e28a37f.png",
-    "static/media/WeirdNJobs.png": "/react-gh-pages/static/media/WeirdNJobs.fe20dfdd984092d31fc0.png",
-    "static/media/Glitch.png": "/react-gh-pages/static/media/Glitch.fe6f94be8e09fa7744d8.png",
-    "static/media/IntoTheLight.png": "/react-gh-pages/static/media/IntoTheLight.2c2e42002db8c9e5e5f9.png",
-    "static/media/Weather.png": "/react-gh-pages/static/media/Weather.2cbf4db8945657974867.png",
-    "static/media/GuildWar.png": "/react-gh-pages/static/media/GuildWar.d97307cd868e6b0b1e1f.png",
-    "static/media/Budget.png": "/react-gh-pages/static/media/Budget.f2aa40321591c0727b0e.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d7da34c1.css.map": "/react-gh-pages/static/css/main.d7da34c1.css.map",
-    "main.2fd74957.js.map": "/react-gh-pages/static/js/main.2fd74957.js.map"
+    "main.css": "/React-Test-Site/static/css/main.d7da34c1.css",
+    "main.js": "/React-Test-Site/static/js/main.fd8bb40d.js",
+    "static/media/video.mp4": "/React-Test-Site/static/media/video.e9e7b332c1a6732a3f97.mp4",
+    "static/media/OldPortfolio.png": "/React-Test-Site/static/media/OldPortfolio.332f956fd2723aebb825.png",
+    "static/media/Entertainment.png": "/React-Test-Site/static/media/Entertainment.5e8003b75deafb9f7336.png",
+    "static/media/Pokemon.png": "/React-Test-Site/static/media/Pokemon.f49ba4196f91a6d2e94e.png",
+    "static/media/Gameoverlay.png": "/React-Test-Site/static/media/Gameoverlay.2088d1ecd840098d264e.png",
+    "static/media/ProjectCyber.png": "/React-Test-Site/static/media/ProjectCyber.51a3c824fa9376ae44c0.png",
+    "static/media/Hirune.png": "/React-Test-Site/static/media/Hirune.efe6c224ada18e28a37f.png",
+    "static/media/WeirdNJobs.png": "/React-Test-Site/static/media/WeirdNJobs.fe20dfdd984092d31fc0.png",
+    "static/media/Glitch.png": "/React-Test-Site/static/media/Glitch.fe6f94be8e09fa7744d8.png",
+    "static/media/IntoTheLight.png": "/React-Test-Site/static/media/IntoTheLight.2c2e42002db8c9e5e5f9.png",
+    "static/media/Weather.png": "/React-Test-Site/static/media/Weather.2cbf4db8945657974867.png",
+    "static/media/GuildWar.png": "/React-Test-Site/static/media/GuildWar.d97307cd868e6b0b1e1f.png",
+    "static/media/Budget.png": "/React-Test-Site/static/media/Budget.f2aa40321591c0727b0e.png",
+    "index.html": "/React-Test-Site/index.html",
+    "main.d7da34c1.css.map": "/React-Test-Site/static/css/main.d7da34c1.css.map",
+    "main.fd8bb40d.js.map": "/React-Test-Site/static/js/main.fd8bb40d.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.2fd74957.js"
+    "static/js/main.fd8bb40d.js"
   ]
 }
