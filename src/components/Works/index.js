@@ -24,7 +24,7 @@ const Works = () => {
                     <WorksA as='a' href='https://entertainmentreview.herokuapp.com/login'>
                         <WorksIcon src={Icon2}/>
                     </WorksA>
-                    <WorksH2>Entertainent Review</WorksH2>
+                    <WorksH2>Entertainment Review</WorksH2>
                     <WorksP as='a' href='https://github.com/NeXFP/EntertainmentReviewListProject '> Repository</WorksP>
                 </WorksCard>
                 <WorksCard>
