@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7da34c1.css",
+    "main.js": "/static/js/main.d4feea9a.js",
+    "static/media/video.mp4": "/static/media/video.e9e7b332c1a6732a3f97.mp4",
+    "static/media/OldPortfolio.png": "/static/media/OldPortfolio.332f956fd2723aebb825.png",
+    "static/media/Entertainment.png": "/static/media/Entertainment.5e8003b75deafb9f7336.png",
+    "static/media/Pokemon.png": "/static/media/Pokemon.f49ba4196f91a6d2e94e.png",
+    "static/media/Gameoverlay.png": "/static/media/Gameoverlay.2088d1ecd840098d264e.png",
+    "static/media/ProjectCyber.png": "/static/media/ProjectCyber.51a3c824fa9376ae44c0.png",
+    "static/media/Hirune.png": "/static/media/Hirune.efe6c224ada18e28a37f.png",
+    "static/media/WeirdNJobs.png": "/static/media/WeirdNJobs.fe20dfdd984092d31fc0.png",
+    "static/media/Glitch.png": "/static/media/Glitch.fe6f94be8e09fa7744d8.png",
+    "static/media/IntoTheLight.png": "/static/media/IntoTheLight.2c2e42002db8c9e5e5f9.png",
+    "static/media/Weather.png": "/static/media/Weather.2cbf4db8945657974867.png",
+    "static/media/GuildWar.png": "/static/media/GuildWar.d97307cd868e6b0b1e1f.png",
+    "static/media/Budget.png": "/static/media/Budget.f2aa40321591c0727b0e.png",
+    "index.html": "/index.html",
+    "main.d7da34c1.css.map": "/static/css/main.d7da34c1.css.map",
+    "main.d4feea9a.js.map": "/static/js/main.d4feea9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.d4feea9a.js"
+  ]
+}
